@@ -6,7 +6,7 @@ in
 
 
 HyperOS 2  Android 15 -  **More connectivity option** - **Private DNS** - **Private DNS provider hostname** - ns2.793593-cv44176.tmweb.ru
-
+Xiaomi Android 11 - **Connection & sharing** - **Private DNS** - **Private DNS provider hostname** - ns2.793593-cv44176.tmweb.ru
 Also may be used for adblocking in realme , e.g. 
 
 Android 13 - **Connection & sharing** - **Private DNS** - **Specified DNS** - ns2.793593-cv44176.tmweb.ru
