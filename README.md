@@ -1,8 +1,11 @@
 # dns-adblock-android-xiaomi-RU-region-firmware-adblock-working
 Free of charge Domain NS blocking for some domains, these domains install some unwanted app from GETAPPS appstores.
 
-If you don't want that some e.g. YANDEX untrusted apps installed in your XIAOMI without your touch in screen, e.g. Screenshot, use specified ns2.793593-cv44176.tmweb.ru
-in 
+If you don't want that some e.g. YANDEX untrusted apps installed in your XIAOMI without your touch in screen, 
+
+![Unwanted app in mobile network from Xiaomi Getapps](Screenshot_2026-07-14-12-17-39-165_com.miui.securitycenter.jpg)
+
+You could use specified ns2.793593-cv44176.tmweb.ru
 
 
 HyperOS 2  Android 15 -  **More connectivity option** - **Private DNS** - **Private DNS provider hostname** - ns2.793593-cv44176.tmweb.ru
