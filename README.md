@@ -3,7 +3,7 @@ Free of charge Domain NS blocking for some domains, these domains install some u
 
 If you don't want that some e.g. YANDEX untrusted apps installed in your XIAOMI without your touch in screen, 
 
-![Unwanted app in mobile network from Xiaomi Getapps](Screenshot_2026-07-14-12-17-39-165_com.miui.securitycenter.jpg)
+![Unwanted app in mobile network from Xiaomi Getapps](Screenshot_2026-07-14-14-28-12-632_com.miui.securitycenter.jpg)
 
 You could use specified ns2.793593-cv44176.tmweb.ru
 
